@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on unique picture method and some blockchain project
 - 🤔 I’m looking for help with how to deal with unique picture
 - 💬 Ask me about MachineLeaning, DeepLearning, BlockChain
-- 📫 How to reach me: QQ: 1102100299
+- 📫 How to reach me: QQ: 1102100299(please star the repository which you ask me thanks uu)
