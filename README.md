@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on ECNU & ByteDance
+- 🔭 I’m currently working on ECNU & ByteDance(dimission now)
 - 🌱 I’m currently learning BlockChain
 - 👯 I’m looking to collaborate on unique picture method and some blockchain project
 - 🤔 I’m looking for help with how to deal with unique picture
