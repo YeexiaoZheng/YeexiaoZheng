@@ -6,17 +6,16 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ECNU & ByteDance
-- 🌱 I’m currently learning BlockChain
-- 👯 I’m looking to collaborate on unique picture method
+- 🌱 I’m currently learning BlockChain, Zero-Knowledge Proof, Machine Learning
+- 👯 I’m looking to collaborate on ZKML
 - 🤔 I’m looking for help with how to deal with unique picture
-- 💬 Ask me about MachineLeaning, DeepLearning, BlockChain
+- 💬 Ask me about Machine Learning, Deep Learning, BlockChain
 - 📫 How to reach me: QQ: 1102100299
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on ECNU & ByteDance(dimission now)
-- 🌱 I’m currently learning BlockChain
-- 👯 I’m looking to collaborate on unique picture method and some blockchain project
-- 🤔 I’m looking for help with how to deal with unique picture
-- 💬 Ask me about MachineLeaning, DeepLearning, BlockChain
+- 🔭 I’m currently working on ECNU & ByteDance(dismission now)
+- 🌱 I’m currently learning BlockChain, Zero-Knowledge Proof, Machine Learning
+- 👯 I’m looking to collaborate on ZKML
+- 💬 Ask me about Machine Learning, Deep Learning, BlockChain
 - 📫 How to reach me: QQ: 1102100299/Mail: 1102100299@qq.com(please star the repository which you ask me thanks uu)
