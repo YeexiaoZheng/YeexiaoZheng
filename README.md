@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ECNU & ByteDance
 - 🌱 I’m currently learning BlockChain, Zero-Knowledge Proof, Machine Learning
-- 👯 I’m looking to collaborate on ZKML
+- 👯 I’m looking to collaborate on **ZKML**
 - 🤔 I’m looking for help with how to deal with unique picture
 - 💬 Ask me about Machine Learning, Deep Learning, BlockChain
 - 📫 How to reach me: QQ: 1102100299
