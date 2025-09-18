@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning BlockChain, Zero-Knowledge Proof, Machine Learning
 - 👯 I’m looking to collaborate on **ZKML**
 - 💬 Ask me about Machine Learning, Deep Learning, BlockChain
-- 📫 How to reach me: QQ: 1102100299/Mail: 1102100299@qq.com(please star the repository which you ask me thanks uu)
+- 📫 How to reach me: QQ: 1102100299/Mail: yeexiaozheng@qq.com(please star the repository which you ask me thanks uu)
